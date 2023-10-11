@@ -1,3 +1,4 @@
 @Library('roboshop') _
 
-java()
+env.cibuild = "java"
+mainci()
